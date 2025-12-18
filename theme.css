@@ -1,0 +1,54 @@
+:root {
+  /* BACKGROUND COLORS */
+  --bg-primary-color: #222222f6;
+  --bg-light-black:#353333;
+  --bg-secondary-color: #e2e1e1;
+  --bg-active-color: rgb(173, 136, 33);
+  --bg-section1-color:rgb(0, 80, 172);
+  --bg-section2-color:rgb(5, 150, 190);
+  --bg-danger-color:rgb(217, 5, 5);
+  --bg-success-color:rgb(3, 115, 39);
+  --bg-sky-color:rgb(0, 159, 221);
+
+  /* TEXT COLORS */
+  --text-primary:#fff;
+  --text-secondary:rgb(18, 18, 18);
+  --text-warning:#d9ce00;
+
+  /* GUTTERS VARIABLES */
+  --gutter-sm: 0.25rem;
+  --gutter-md: 0.5rem;
+  --gutter-lg: 1.3rem;
+  --gutter-xl: 2rem;
+
+  /* MARGIN AND PADDING */
+  --margin-sm: 0.25rem;
+  --margin-md: 0.5rem;
+  --margin-lg: 1rem;
+  --margin-xl: 1.5rem;
+  --margin-2xl: 2rem;
+
+  --padding-sm: 0.25rem;
+  --padding-md: 0.5rem;
+  --padding-lg: 1rem;
+  --padding-xl: 1.5rem;
+  --padding-2xl: 2rem;
+
+  /* BORDER COLOR */
+  --border-primary-color:#edeaea;
+  --border-secondary-color:#222121;
+  
+  /* BORDER RADIUS  */
+  --border-sm:3px;
+  --border-md:6px;
+  --border-lg:10px;
+  --border-full:50%;
+
+  /* FONT SIZES */
+  --font-xs:0.8rem;
+  --font-sm:1rem;
+  --font-md:1.2rem;
+  --font-lg:1.6rem;
+  --font-xl:2.1rem;
+  --font-2xl:3rem;
+}
