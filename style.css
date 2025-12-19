@@ -140,6 +140,15 @@ canvas{
     width: 100%;
     background-color: var(--bg-light-black);
     border-radius: var(--border-md);
+    padding:var(--padding-md);
+    display: flex;
+    flex-wrap: wrap;
+    gap:var(--gutter-md)
+}
+.preset-btn{
+    background-color: var(--bg-secondary-color);
+    font-size: var(--font-sm);
+    padding:var(--padding-sm) var(--padding-md);
 }
 
 .filter{
